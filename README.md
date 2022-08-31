@@ -2,15 +2,16 @@
 
 ⚡ Let's Create ⚡
 
-- 🔭 Founded and built Rutas Colectivos, the first map of local transport options here in San Cristobal De La, Mexico - https://www.rutascolectivos.info
+- 🔭 Founded and built Rutas Colectivos, the first map of local transport options here in San Cristobal De Las Casas, Mexico - https://www.rutascolectivos.info
 
-<button>Hello</button>
+- 🌱 Creating Rock Paper Scissors for the NEAR blockhain for learning purposes
+checkout my repo here...
 
-- 🌱 Making Rock Paper Scissors for the NEAR blockhain for learning purposes
-checkout my repo here : link
+- 🔨 Here is platform that I made with is Vue.js frontend, Node.js backend, Mongodb database, Persistent login functionality. Feel free to start a project from here... 
 
-👯 I’m looking to collaborate on anything that helps me put my skills to work 
-💬 Ask me about solving your tech related problems
+- 👯 I’m looking to collaborate, team work makes the dream work ;)
 
--  Fun fact: 
+- 💬 Ask me about solving your tech related problems
+
+- 🌈 Fun fact: I once experimented with saying loving things to rice
 -->
