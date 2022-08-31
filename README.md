@@ -1,10 +1,16 @@
-### Hi there 👋
+⚡ Hi there ⚡
 
-- 🔭 I’m currently working on Rutas Colectivos, a personal project to display local transport options here in Mexico - https://www.rutascolectivos.info
-- 🌱 I’m currently learning Rust and NEAR blockchain by making Rock Paper Scissors for the blockhain
-- 👯 I’m looking to collaborate on brightening the future of humanity by a Watt or two at least :)
-- 💬 Ask me about how something works
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+⚡ Let's Create ⚡
+
+- 🔭 Founded and built Rutas Colectivos, the first map of local transport options here in San Cristobal De La, Mexico - https://www.rutascolectivos.info
+
+<button>Hello</button>
+
+- 🌱 Making Rock Paper Scissors for the NEAR blockhain for learning purposes
+checkout my repo here : link
+
+👯 I’m looking to collaborate on anything that helps me put my skills to work 
+💬 Ask me about solving your tech related problems
+
+-  Fun fact: 
 -->
