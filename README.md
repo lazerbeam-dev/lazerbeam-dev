@@ -13,5 +13,4 @@ checkout my repo here...
 
 - 💬 Ask me about solving your tech related problems
 
-- 🌈 Fun fact: I once experimented with saying loving things to rice, and it miraculously preserved
--->
+- 🌈 Fun fact: I once experimented with saying loving things to rice to see if it would preserve
