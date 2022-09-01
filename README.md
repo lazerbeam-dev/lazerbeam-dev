@@ -1,6 +1,6 @@
 ⚡ Hi there ⚡
 
-⚡ Out here to create programs that do cool stuff ⚡
+⚡ Out here to code cool stuff ⚡
 
 - 🔭 Founded and built Rutas Colectivos, the first map of local transport options here in San Cristobal De Las Casas, Mexico - https://www.rutascolectivos.info
 
