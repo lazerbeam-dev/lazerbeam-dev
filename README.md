@@ -1,6 +1,6 @@
 ⚡ Hi there ⚡
 
-⚡ Let's Create ⚡
+⚡ Out here to create programs that do cool stuff ⚡
 
 - 🔭 Founded and built Rutas Colectivos, the first map of local transport options here in San Cristobal De Las Casas, Mexico - https://www.rutascolectivos.info
 
@@ -13,5 +13,5 @@ checkout my repo here...
 
 - 💬 Ask me about solving your tech related problems
 
-- 🌈 Fun fact: I once experimented with saying loving things to rice
+- 🌈 Fun fact: I once experimented with saying loving things to rice, and it miraculously preserved
 -->
