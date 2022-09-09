@@ -7,7 +7,7 @@ I work with <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&
 
 - 🔭 Founded and built Rutas Colectivos, the first map of the local transport options here in San Cristobal De Las Casas, Mexico https://www.rutascolectivos.info all of the code is open source and can be found here https://github.com/slackconformistjinn/colectivo
 
-- 🌱 I'm Creating Rock Paper Scissors in rust for the NEAR blockhain to learn a few things, check it out https://github.com/slackconformistjinn/rockpaperscissors-nearrust
+- 🌱 I'm Creating Rock Paper Scissors in rust for the NEAR blockhain to learn a few things, check it out https://github.com/slackconformistjinn/rps-rust 
 
 - 👯 I’m looking to collaborate, team work makes the dream work ;)
 
