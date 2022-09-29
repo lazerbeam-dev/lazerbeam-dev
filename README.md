@@ -13,4 +13,4 @@ I work with <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&
 
 - 💬 Ask me about creating something
 
-- 🌈 Fun fact: I once did a month long experiment with saying loving/hating things to rice
+- 🌈 Fun fact: I once did a month long experiment with saying loving/hating things to rice and the results will blow your mind
