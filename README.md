@@ -14,4 +14,4 @@ My creative passion is robust automated solutions that alleviate our drudgery so
 
 - 💬 Ask me about creating AI, DApps, or other technical solutions
 
-- 🌈 Fun fact: everything is energy, frequency, vibration and I'm a lazerbeam
+- 🌈 Fun fact: Everything is energy, frequency, vibration
