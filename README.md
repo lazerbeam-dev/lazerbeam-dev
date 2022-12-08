@@ -10,7 +10,7 @@ My creative passion is robust automated solutions that alleviate our drudgery so
 
 - 💡 Created a front end only chess AI in javascript (it is not good...yet :D) https://github.com/lazerbeam-dev/chessica
 
-- 👯 I’m looking to team up and go hyper saiyan Vegito mode ;)
+- 👯 I’m looking to team up and go hyper saiyan ;)
 
 - 💬 Ask me about creating AI, DApps, or other technical solutions
 
