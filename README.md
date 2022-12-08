@@ -6,6 +6,8 @@ I work with <img src="https://img.shields.io/badge/C%23-.NET-A178DD"><img src="h
 
 My creative passion is robust automated solutions that alleviate our drudgery so that we can better pursue our creative passion. 
 
+- 🥇 Part of the 3 man team that won the 2022 stacks hackathon with this decentralized options contract https://github.com/options-vault/options-vault
+
 - 🔭 Created the first interactive map of the local transport options here in San Cristobal De Las Casas, Mexico https://www.rutascolectivos.info all of the code is open source and can be found here https://github.com/lazerbeam-dev/colectivo
 
 - 💡 Created a front end only chess AI in javascript (it is not good...yet :D) https://github.com/lazerbeam-dev/chessica
