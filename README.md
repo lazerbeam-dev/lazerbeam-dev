@@ -12,8 +12,6 @@ I work with <img src="https://img.shields.io/badge/C%23-.NET-A178DD"><img src="h
 
 - 💡 Created a front end only chess AI in javascript - it is a 3 layers deep minimax algorithm (with alpha beta pruning) with piece values hard coded. i.e. not very good -- yet https://github.com/lazerbeam-dev/chessica
 
-- 👯 I’m looking to team up and go hyper saiyan ;)
-
 - 💬 Ask me about creating AI, DApps, or other technical solutions
 
 - 🌈 Fun fact: Everything is energy, frequency, vibration
