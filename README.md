@@ -10,7 +10,7 @@ I work with <img src="https://img.shields.io/badge/C%23-.NET-A178DD"><img src="h
 
 - 🔭 Created the first interactive map of the local transport options here in San Cristobal De Las Casas, Mexico https://www.rutascolectivos.info all of the code is open source and can be found here https://github.com/lazerbeam-dev/colectivo
 
-- 💡 Created a front end only chess AI in javascript - it is a 3 layers deep minimax algorithm (with alpha beta pruning) with piece values hard coded, very beatable https://github.com/lazerbeam-dev/chessica
+- 💡 Created a front end only chess AI in javascript - it is a 3 layers deep minimax algorithm (with alpha beta pruning) with piece values hard coded. https://github.com/lazerbeam-dev/chessica
 
 - 👯 I’m looking to team up and go hyper saiyan ;)
 
