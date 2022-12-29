@@ -8,4 +8,4 @@
 
   🌾 I'm creating a javascript chess AI https://github.com/lazerbeam-dev/chess-guevara
 
-  🌈 Fun fact: Matter (hydrogen) is extremely high energy light like a water droplet that might flick up at the origin of a sufficiently high energy water ripple.  
+  🌈 Fun fact: Matter (hydrogen) is extremely high energy light like a stationary water droplet that might form instead of a wave when the water's surface is disturbed with enough energy. 
