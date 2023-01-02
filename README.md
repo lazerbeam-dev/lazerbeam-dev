@@ -8,4 +8,4 @@
 
   🌾 I'm creating a javascript chess AI https://github.com/lazerbeam-dev/chess-guevara
 
-  🌈 Fun physics theory: Matter (hydrogen, all matter being compounded hydrogen) is extremely high energy light. If light is a ripple of the ether, hydrogen nucleus may be like a stationary ether droplet that might form instead of a wave when the ether's surface is disturbed with enough energy. 
+  🌈 Fun physics theory: Matter (hydrogen, all matter being compounded hydrogen) is extremely high energy light. If light is a ripple of the ether, hydrogen nucleus may be like a stationary ether droplet that might form instead of a wave when the medium is disturbed with enough energy. 
