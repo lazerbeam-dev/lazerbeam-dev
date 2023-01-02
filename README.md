@@ -1,6 +1,6 @@
 <b>Jack</b> 
 
-✨ <b> Passionate about exponential human potential acceleration AKA technology </b>
+✨ <b> I love exponential human potential acceleration AKA technology </b>
 
   🥇 Won the 2022 stacks hackathon with this decentralized options contract https://github.com/options-vault/options-vault as part of a 3 man team.
 
