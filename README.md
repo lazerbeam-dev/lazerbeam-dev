@@ -1,6 +1,6 @@
 <b>Jack</b> 
 
-✨ <b> I love exponential human potential acceleration AKA technology </b>
+✨ <b> Expanding human potential exponentially through technology </b>
 
   🥇 Won the 2022 stacks hackathon with this decentralized options contract https://github.com/options-vault/options-vault as part of a 3 man team.
 
@@ -8,4 +8,4 @@
 
   🌾 I'm creating a javascript chess AI https://github.com/lazerbeam-dev/chess-guevara
 
-  🌈 Fun physics theory: Matter (hydrogen, all matter being compounded hydrogen) is extremely high energy light. If light is a ripple of the ether, hydrogen nucleus may be like a stationary ether droplet that might form instead of a wave when the medium is disturbed with enough energy. 
+  🌈 Fun physics theory: Matter (hydrogen, all matter being compounded hydrogen) is extremely high energy light.
