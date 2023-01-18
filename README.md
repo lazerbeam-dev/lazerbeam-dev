@@ -1,4 +1,4 @@
-<b>Jack</b> 
+⚡ <b>Jack</b> 
 
 ✨ <b> Expanding human potential exponentially through technology </b>
 
